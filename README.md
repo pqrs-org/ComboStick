@@ -13,6 +13,6 @@ The power of Karabiner-Elements, this setup has the following features, offering
     Tilting the second stick while doing so adds additional speed, enabling a wide range of actions from delicate adjustments to large movements with ease.
 -   As long as the stick is tilted, it continues to provide input. This is a major advantage when scrolling infinitely or moving across a large screen in any direction.
 
-| Usage                      | ComboStick                           |
+| Using with keyboard        | ComboStick                           |
 | -------------------------- | ------------------------------------ |
 | ![usage](images/usage.jpg) | ![ComboStick](images/combostick.jpg) |
