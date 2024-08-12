@@ -1,0 +1,10 @@
+.DS_Store
+*.pkg/
+*.zip
+*.dmg
+*.o
+*.tmp
+a.out
+pkgroot/
+build/
+tmp/
