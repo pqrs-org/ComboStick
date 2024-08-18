@@ -1,4 +1,4 @@
-# ComboStick: A mouse that combines and operates two sticks simultaneously
+# ComboStick: A mouse for macOS that combines and operates two sticks simultaneously
 
 This is a joystick-operated mouse designed to keep your hands on the keyboard.
 It's made by modifying a commercially available Logitech F310 Gamepad, which can be obtained at a low cost.
@@ -15,4 +15,4 @@ The power of Karabiner-Elements, this setup has the following features, offering
 
 | Using with keyboard        | ComboStick                           |
 | -------------------------- | ------------------------------------ |
-| ![usage](images/usage.jpg) | ![ComboStick](images/combostick.jpg) |
+| ![usage](images/in-use.jpg) | ![ComboStick](images/combostick.jpg) |
